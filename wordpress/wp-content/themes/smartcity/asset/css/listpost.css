@@ -1,0 +1,37 @@
+.listpost-page{
+	background-color: red;
+}
+
+.listpost{
+	width: 80%;
+	margin: 0 auto;
+	padding-top: 3em;
+	margin-top: 5.5em;
+	padding: 0 15px;
+}
+
+.listpost .listpost-title{
+	color: #444444 !important;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 28px;
+}
+
+.listpost .listpost-title:hover{
+	text-decoration: none;
+}
+
+
+.listpost .listpost-info {
+	margin-left: -4em;
+	margin-top: 2em;
+}
+
+.listpost .listpost-info a{
+	color: #28C7DC;
+	font-weight: 600;
+}
+
+.listpost .listpost-info .time{
+	color: #bbb;
+}

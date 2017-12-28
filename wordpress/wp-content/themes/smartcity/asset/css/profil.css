@@ -1,0 +1,50 @@
+.profil-page{
+	margin-top: 6em;
+	height: 75em;
+}
+
+.profil-page h1{
+	letter-spacing: 2px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 1em;
+}
+
+.profil-smart {
+	margin-top: 1em;
+}
+
+.profil-smart h4{
+	text-align: center;
+}
+
+.profil-smart img{
+	width: 100%;
+	height: 100%;
+	border: 2px solid black;
+	border-radius: 20px;
+}
+
+/*.profil-content img{
+	width: 50%;
+	height: 50%;
+	border-radius: 10px;
+}
+
+.profil-content h1{
+	letter-spacing: 2px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 1em;
+}*/
+
+.thumbnail {margin-bottom:6px;}
+
+
+.carousel-control.left,.carousel-control.right{
+  background-image:none;
+  margin-top:10%;
+  width:5%;
+}

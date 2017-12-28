@@ -1,0 +1,86 @@
+html{
+	position: relative;
+	min-height: 54.2%;
+}
+
+.navbar{
+	background: transparent;
+	height: 70px;
+	transition: all 1s;
+}
+
+.navbar .navbar-brand{
+	padding-left: 30px;
+	padding-top: 15px;
+	transition: all 1s;	
+}
+
+.navbar .navbar-brand img{
+	width: 40px;
+	height: 40px;
+	transition: all 1s;
+}
+
+.navbar .navbar-right{
+	margin-top: 10px;
+	transition: all 1s;
+}
+
+.navbar .navbar-right li{
+	margin-left: 40px;
+	text-transform: uppercase;
+	transition: all 1s;
+	text-align: center;
+}
+
+.navbar .navbar-right li a{
+	color: whitesmoke;
+	transition: all 1s;
+	border: 2px solid whitesmoke;
+	width: 100px;
+	height: 50px;
+	text-align: center;
+	font-weight: 500;
+	letter-spacing: 1px;
+}
+
+.navbar-2{
+	background-color: #E2E3E4;
+	transition: all 1s;
+}
+
+.navbar-2 .navbar-brand{
+	padding-left: 20px;
+	padding-top: 10px;
+	transition: all 1s;
+}
+
+.navbar-2 .navbar-brand img{
+	width: 30px;
+	height: 30px;
+	transition: all 1s;
+}
+
+.navbar-2 .navbar-right{
+	transition: all 1s;
+}
+
+.navbar-2 .navbar-right li{
+	width: 100px;
+	height: 20px;
+	margin-left: 40px;
+	text-transform: uppercase;
+	transition: all 1s;
+}
+
+.navbar-2 .navbar-right li a{
+	color: black;
+	text-align: center;
+	letter-spacing: 1px;
+	font-weight: 500;
+	transition: all 1s;
+}
+
+.navbar-2 .navbar-right li a:hover{
+	background-color: whitesmoke;
+}
