@@ -10,6 +10,8 @@
   </div>
 </div>
 
+
+
 <div class="smart-container">
   <div class="smart-content col-md-12" id="b">
   
@@ -82,6 +84,12 @@
 	endif;
 ?> -->
 
+<div class="some-space">
+  <div class="content">
+    <a href="<?php echo home_url() . '/blog'; ?>" class="btn btn-default">LIHAT SEMUA BERITA</a>
+  </div>
+</div>
+
 <div class="news-container col-md-12">
   <div class="news-title">Berita Terbaru</div>
 <?php
@@ -122,6 +130,11 @@ if ( $the_query->have_posts() ) {
   ?>
 </div>
 
+<div class="some-space2">
+  <div class="content">
+    <a href="<?php echo home_url() . '/kontak'; ?>" class="btn btn-default">CARI TAHU TENTANG KAMI</a>
+  </div>
+</div>
 
 <?php if (query_posts("cat=15" . "&showposts=1")) : ?>
 <?php while (have_posts()) : the_post(); ?>

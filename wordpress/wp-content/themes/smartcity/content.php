@@ -1,6 +1,7 @@
 <?php if (is_single()): ?>
 	<div class="blog-page">
 	<div class="col-lg-8 blog-content-title"><?php the_title(); ?></div>
+
 	<div class="col-lg-8">
             <div class="blog-content">
             <div class="blog-content-info">
@@ -21,9 +22,12 @@
             </div>
         </div>
     </div>
+    
      </div>
 	
-	 <?php else: ?>
+	 <?php else:  ?>
+
+
 <div class="listpost">
 	<div class="col-sm-8">		
 	</div>

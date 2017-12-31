@@ -2,7 +2,7 @@ footer{
 	background-color: yellow;
 	height: 1px;
 	position: absolute;
-	bottom: 0;
+	bottom: 0 !important;
 	left: 0;
 	right: 0;
 }

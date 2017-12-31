@@ -3,37 +3,6 @@
 	get_header();
 ?>
 
-<!-- <div class="profil-page">
-<h1>Konsep Smart City Bandung</h1>
-    <div class="col-lg-12">
-        <div class="col-lg-4 profil-smart">
-            <h4>Smart Environment</h4>
-            <img src="<?php echo home_url() . '/wp-content/themes/smartcity/asset/images/1environment.png' ?>" alt="">
-        </div>
-        <div class="col-lg-4 profil-smart">
-            <h4>Smart Society</h4>
-            <img src="<?php echo home_url() . '/wp-content/themes/smartcity/asset/images/2society.png' ?>" alt="">
-        </div>
-        <div class="col-lg-4 profil-smart">
-            <h4>Smart Living</h4>
-            <img src="<?php echo home_url() . '/wp-content/themes/smartcity/asset/images/3living.png' ?>" alt="">
-        </div>
-    </div>
-    <div class="col-lg-12">
-        <div class="col-lg-4 profil-smart">
-            <h4>Smart Economy</h4>
-            <img src="<?php echo home_url() . '/wp-content/themes/smartcity/asset/images/4economy.png' ?>" alt="">
-        </div>
-        <div class="col-lg-4 profil-smart">
-            <h4>Smart Branding</h4>
-            <img src="<?php echo home_url() . '/wp-content/themes/smartcity/asset/images/5branding.png' ?>" alt="">
-        </div>
-        <div class="col-lg-4 profil-smart">
-            <h4>Smart Governance</h4>
-            <img src="<?php echo home_url() . '/wp-content/themes/smartcity/asset/images/6governance.png' ?>" alt="">
-        </div>
-    </div>
-</div> -->
 
 <div class="container profil-page" style="margin-top: 6em;">
   <div class="row profil-smart">
